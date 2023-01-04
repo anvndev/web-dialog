@@ -49,7 +49,6 @@ Building a good dialog is hard - there are many things you might not think about
 		* [CSS Shadow Parts](#css-shadow-parts)
 		* [CSS Custom Properties](#css-custom-properties)
 * [➤ Contributors](#-contributors)
-* [➤ License](#-license)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
