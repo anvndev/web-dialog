@@ -1,4 +1,4 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">web-dialog</h1>
+
 <p align="center">
 		<a href="https://npmcharts.com/compare/web-dialog?minimal=true"><img alt="Downloads per month" src="https://img.shields.io/npm/dm/web-dialog.svg" height="20"/></a>
 <a href="https://www.npmjs.com/package/web-dialog"><img alt="NPM Version" src="https://img.shields.io/npm/v/web-dialog.svg" height="20"/></a>
