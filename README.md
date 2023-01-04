@@ -445,8 +445,6 @@ A dialog web component that can be used to display highly interruptive messages.
 
 ## ➤ Contributors
 Thank you Mehlsen~!
-## ➤ License
-	
-Licensed under [MIT](https://opensource.org/licenses/MIT).
+
 
   
